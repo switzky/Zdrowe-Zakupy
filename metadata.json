@@ -1,0 +1,5 @@
+{
+  "name": "Verda Scanner",
+  "description": "Biohacking product scanner based on Protokół Verda 8.3. Analyzes ingredients against your health profile and tracks your scan history.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
